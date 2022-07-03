@@ -1,6 +1,6 @@
 ### Hi there!
 
-Here be where I work on an ever-growing backlog of random projects.
+Here's where I work on an ever-growing backlog of random projects.
 
 ---
 
