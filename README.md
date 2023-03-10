@@ -1,7 +1,7 @@
 ### Hi there!
 
-Here's where I tackle an ever-growing pile of projects. I'm currently mostly working on a bunch of Rust-related projects, though
-I enjoy dabbling in other languages and exploring new stuff.
+Here's where I tackle an ever-increasing pile of projects. Currently, I find myself mostly tackling Rust-based projects, though
+I always enjoy trying out other languages/tech and exploring new stuff.
 
 ---
 
