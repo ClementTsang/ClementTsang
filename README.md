@@ -1,6 +1,6 @@
 ### Hi there!
 
-Here's where I tackle an ever-increasing pile of projects. Currently, I find myself mostly tackling Rust-based projects, though
+Here's where I'm usually tackling a seemingly ever-increasing pile of projects. Currently, I find myself mostly tackling Rust-based projects, though
 I always enjoy trying out other languages/tech and exploring new stuff.
 
 ---
