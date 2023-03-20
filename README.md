@@ -1,6 +1,6 @@
 ### Hi there!
 
-Here's where I'm usually tackling a seemingly endless list of projects. Currently, I find myself mostly tackling Rust-based projects, though
+Here's where I'm usually tackling a seemingly endless list of projects. Currently, I find myself mostly tackling Rust-related projects, though
 I always enjoy trying out other languages/tech and exploring new stuff.
 
 ---
