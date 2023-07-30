@@ -1,7 +1,6 @@
 ### Hi there!
 
-Here's where I tackle an endlessly growing list of projects. Currently, I find myself mostly working on Rust-related projects, though
-I always enjoy trying out other languages/tech and exploring new stuff.
+Here's where I tackle an endlessly growing number of projects and ideas.
 
 ---
 
