@@ -1,6 +1,6 @@
 ### Hi there!
 
-Here's where I tackle an endlessly growing number of projects and ideas.
+Here's where I tackle a never-ending growing number of projects and ideas.
 
 ---
 
